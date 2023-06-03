@@ -1,2 +1,2 @@
-# Custom_MNIST
-Custom MNIST assignment 
+# Custom_MNIST - Handwritten Digits Recognition
+Custom MNIST assignment using sklearn 
